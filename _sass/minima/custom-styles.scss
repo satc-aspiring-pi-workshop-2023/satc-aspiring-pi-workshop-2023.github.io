@@ -151,7 +151,7 @@ a {
 .reg-link button {
     border-radius: 5px;
     border: 2px solid $gw_blue_secondary;
-    width: calc($content-width/5);
+    width: calc(#{$content-width}/5);
     color: white; //$gw_gold_accent;
     background-color: $gw_blue_secondary;
     font-size: $base-font-size;

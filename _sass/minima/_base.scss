@@ -140,7 +140,7 @@ a {
 blockquote {
   color: $brand-color;
   border-left: 4px solid $border-color-01;
-  padding-left: calc($spacing-unit / 2);
+  padding-left: calc(#{$spacing-unit} / 2);
   @include relative-font-size(1.125);
   font-style: italic;
 
@@ -201,8 +201,8 @@ pre {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-  padding-right: calc($spacing-unit / 2);
-  padding-left: calc($spacing-unit / 2);
+  padding-right: calc(#{$spacing-unit} / 2);
+  padding-left: calc(#{$spacing-unit} / 2);
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
@@ -262,7 +262,7 @@ table {
     }
   }
   th, td {
-    padding: calc($spacing-unit / 3) calc($spacing-unit / 2);
+    padding: calc(#{$spacing-unit} / 3) calc(#{$spacing-unit} / 2);
   }
   th {
     background-color: $table-header-bg-color;

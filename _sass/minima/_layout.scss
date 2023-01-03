@@ -128,7 +128,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: calc(#{$spacing-unit} / 2);
 }
 
 .feed-subscribe .svg-icon {
@@ -181,10 +181,10 @@
 
   .footer-col {
     width: calc(100% - (#{$spacing-unit} / 2));
-    padding: 0 calc($spacing-unit / 2);
+    padding: 0 calc(#{$spacing-unit} / 2);
 
     &:first-child {
-      padding-right: calc($spacing-unit / 2);
+      padding-right: calc(#{$spacing-unit} / 2);
       padding-left: 0;
     }
 
@@ -318,7 +318,7 @@
     }
     div {
       display: block;
-      padding: calc($spacing-unit / 4);
+      padding: calc(#{$spacing-unit} / 4);
       border: 1px solid transparent;
 
       &.pager-edge {
