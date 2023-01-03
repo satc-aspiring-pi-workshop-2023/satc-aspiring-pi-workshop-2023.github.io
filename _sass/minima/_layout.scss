@@ -148,7 +148,7 @@
 }
 
 .footer-col {
-  margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: calc(#{$spacing-unit} / 2);
 }
 
 .footer-col-1,
@@ -190,7 +190,7 @@
 
     &:last-child {
       padding-right: 0;
-      padding-left: calc($spacing-unit / 2);
+      padding-left: calc(#{$spacing-unit} / 2);
     }
   }
 }
