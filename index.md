@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie odio vel
 
 <div class="reg-link">
 <a href="">
-<button>Register</button>
+<button>Apply Now</button>
 </a>
 </div>
 

@@ -14,6 +14,6 @@ These are the requirements for participation
 
 <div class="reg-link">
 <a href="">
-<button>Register</button>
+<button>Apply Now</button>
 </a>
 </div>
