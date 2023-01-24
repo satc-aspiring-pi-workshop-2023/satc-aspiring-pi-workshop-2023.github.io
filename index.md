@@ -11,9 +11,19 @@ title: SaTC Aspiring PI Workshop 2023
 
 
 
-## Welcome! 
+## About: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie odio vel risus laoreet, id faucibus augue ultrices. Integer aliquam quam vel magna accumsan porttitor. Mauris aliquet ante ut diam luctus imperdiet. Duis mattis risus lacus, vel pellentesque nisl placerat nec. Integer lobortis semper dignissim. Curabitur vitae justo fermentum, auctor tellus at, cursus nisl. Maecenas varius elit sit amet ligula pulvinar vehicula. Fusce eget justo nunc. Fusce quis eros id turpis malesuada dictum vitae ac ligula. Integer placerat sem nec consequat tincidunt. Maecenas tempus convallis massa, at pellentesque mi commodo at. Nullam rhoncus nisi eu efficitur posuere. Praesent porttitor in enim eu aliquam. 
+The NSF/SaTC Aspiring PI Workshop is a two-day workshop designed for researchers interested in participating in NSF’s Secure and Trustworthy Cyberspace (SaTC) program. Participation in the workshop is open to those with research interests in security, privacy, etc. and trustworthy computing who are not currently funded by SaTC or any of its predecessor organizations (e.g. Trustworthy Computing and/or Cyber Trust). 
+
+The purpose of this workshop is to provide individuals who have never received a SaTC grant with insider tips and tools for navigating NSF’s proposal review process, thereby increasing both the quality of proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with industry mentors in addition to several panels and workshops covering topics such as: 
+  * Crafting a Research Proposal Narrative
+  * Research Project Development
+  * Presentation Strategies
+  * The Panel Review Process 
+  * Mock-Review Modules 
+  * Overview of Common Proposal Mistakes
+  * …and more! 
+
 
 <div class="reg-link">
 <a href="">
@@ -21,17 +31,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie odio vel
 </a>
 </div>
 
-## Draft Schedule
+## Tentative Program Schedule
 
-* March 30, 2023
-  * 830-900: Arrival
-  * etc.
-  * 530: Break
 
-* March 31, 2023
-  * 830-900: Arrival
-  * etc. 
-  * 200pm: Depart
+| Thursday, May 4                                                                 |                                                                                             |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| 8:00am                                                                          | Arrival & Registration                                                                      |
+| 9:15am                                                                          | Opening Remarks by NSF PMs and Organizers                                                   |
+| 9:30am                                                                          | Introductions of Participants and Ice breakers                                              |
+| 10:00am                                                                         | Coffee Break                                                                                |
+| 10:30am                                                                         | Panel 1 (Topic: Research Project Development)                                               |
+| 12:00pm                                                                         | (Working Lunch w/NSF and Mentor one-on-one meetings)                                        |
+| 1:30pm                                                                          | Activity 1 (independent work on updating your project summary based on one-on-one meetings) |
+| 3:00pm                                                                          | Coffee Break                                                                                |
+| 3:30pm                                                                          | Panel 2 (Topic: Panel Review Process)                                                       |
+| 5:00pm                                                                          | Closing Remarks                                                                             |
+| 7:00pm                                                                          | Dinner on your own                                                                          |
+| 10:00pm                                                                         | Project summaries due                                                                       |
+
+
+| Friday, May 5 |                                                         |
+|---------------|---------------------------------------------------------|
+| 8:30am        | Arrival                                                 |
+| 9:00am        | Opening Remarks                                         |
+| 9:30am        | Break into panels and Distribution of Project Summaries |
+| 10:00am       | Coffee Break (Reviews completed and due)                |
+| 10:30am       | Mock NSF Panel (NSF PM preside)                         |
+| 12:00pm       | Closing Remarks and Box Lunch                           |
+
+
   
 
 ## Location
@@ -41,6 +69,13 @@ All events will take place at the George Washington University (GW) in Science a
 When you arrive at SEH, head down the stairs/elevator one level to B1. We will be in SEH B1220, B1270 and the "Green Wall" space. (See [Lehman Auditorium](https://seascf.seas.gwu.edu/lehman-auditorium) for more details).
 
 For travel and hotel, arrangements, please refer to [travel details page](/travel) and reach out to XXXXX for both booking and reimbursment.
+
+
+## Travel & Accommodations 
+The workshop will take place entirely at George Washington University’s School of Engineering located at 800 22nd St. NW, Washington, DC 20052. 
+
+Support for costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space will be provided for all participants. More information on hotel accommodations will be provided in the coming weeks. 
+
 
 ## Contact Us
 
