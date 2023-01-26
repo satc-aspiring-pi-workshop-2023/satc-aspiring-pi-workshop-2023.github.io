@@ -31,6 +31,8 @@ The purpose of this workshop is to provide individuals who have never received a
 </a>
 </div>
 
+
+
 ## Tentative Program Schedule
 
 
@@ -48,6 +50,7 @@ The purpose of this workshop is to provide individuals who have never received a
 | 5:00pm                                                                          | Closing Remarks                                                                             |
 | 7:00pm                                                                          | Dinner on your own                                                                          |
 | 10:00pm                                                                         | Project summaries due                                                                       |
+
 
 
 | Friday, May 5 |                                                         |
