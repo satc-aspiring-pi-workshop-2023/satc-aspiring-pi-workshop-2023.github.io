@@ -11,9 +11,9 @@ title: SaTC Aspiring PI Workshop 2023
 
 
 
-## About: 
+## About
 
-The NSF/SaTC Aspiring PI Workshop is a two-day workshop designed for researchers interested in participating in NSF’s Secure and Trustworthy Cyberspace (SaTC) program. Participation in the workshop is open to those with research interests in security, privacy, etc. and trustworthy computing who are not currently funded by SaTC or any of its predecessor organizations (e.g. Trustworthy Computing and/or Cyber Trust). 
+The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (May 4-5)** designed for researchers interested in participating in NSF’s Secure and Trustworthy Cyberspace (SaTC) program. Participation in the workshop is open to those with research interests in security, privacy, etc. and trustworthy computing who are not currently funded by SaTC or any of its predecessor organizations (e.g. Trustworthy Computing and/or Cyber Trust). 
 
 The purpose of this workshop is to provide individuals who have never received a SaTC grant with insider tips and tools for navigating NSF’s proposal review process, thereby increasing both the quality of proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with industry mentors in addition to several panels and workshops covering topics such as: 
   * Crafting a Research Proposal Narrative
@@ -24,6 +24,8 @@ The purpose of this workshop is to provide individuals who have never received a
   * Overview of Common Proposal Mistakes
   * …and more! 
 
+
+See the [Call For Participants](/cfp) for more details on participation.
 
 <div class="reg-link">
 <a href="">
@@ -36,7 +38,7 @@ The purpose of this workshop is to provide individuals who have never received a
 ## Tentative Program Schedule
 
 
-| Thursday, May 4                                                                 |                                                                                             |
+| Thur., May 4                                                                 |                                                                                             |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | 8:00am                                                                          | Arrival & Registration                                                                      |
 | 9:15am                                                                          | Opening Remarks by NSF PMs and Organizers                                                   |
@@ -53,7 +55,7 @@ The purpose of this workshop is to provide individuals who have never received a
 
 
 
-| Friday, May 5 |                                                         |
+| Fri., May 5 |                                                         |
 |---------------|---------------------------------------------------------|
 | 8:30am        | Arrival                                                 |
 | 9:00am        | Opening Remarks                                         |
@@ -82,4 +84,4 @@ Support for costs associated with travel (including airfare), meals, hotel accom
 
 ## Contact Us
 
-Please send correspondence to `satc_aspire_pi@email.gwu_edu`
+Please send correspondence to [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu)
