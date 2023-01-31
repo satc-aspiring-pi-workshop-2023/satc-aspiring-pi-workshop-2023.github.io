@@ -7,28 +7,20 @@ title: Travel
 ## Travel Arrangements
 
 
-* Flying to DC
+* Flying to DC via DCA, IAD, or BWI
 
 
-* Train to DC
+* Train to DC via Amtrak, MARC, VRE
 
 
-* Driving to DC
+* Driving to DC and parking
 
 
 ## Hotel Arrangements
 
 
-We have hotel blocks in the following locations
-
-* A
-
-* B
-
-* C
-
+We will post details on hotel accommodations soon.
 
 ## Booking and Reimbursement Support
 
-Support for costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space will be provided for all participants. More information on hotel accommodations will be provided in the coming weeks. 
-
+Travel costs assuaged with participation in the workshop (including airfare, hotel, etc.), meals, and other accommodations will be full covered. Please let us know if you need assistance in planning or arranging your travel. We can directly book reservations for you or assist in filing reimbursements.
