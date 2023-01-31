@@ -36,6 +36,9 @@ body{
     font-style: normal;
 }
 
+p {
+    top-margin: calc($spacing-unit/2);
+}
 a {
     color: $gw-blue-accent;
     text-decoration: underline;
