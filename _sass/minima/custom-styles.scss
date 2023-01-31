@@ -37,7 +37,7 @@ body{
 }
 
 p {
-    top-margin: calc(#{$spacing-unit}/2);
+    top-margin: $spacing-unit / 2;
 }
 a {
     color: $gw-blue-accent;
