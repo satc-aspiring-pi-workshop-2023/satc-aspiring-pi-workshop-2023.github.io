@@ -30,6 +30,5 @@ We have hotel blocks in the following locations
 
 ## Booking and Reimbursement Support
 
-
-We will help fully arrange and purchase your travel. Please contact XXXX. 
+Support for costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space will be provided for all participants. More information on hotel accommodations will be provided in the coming weeks. 
 
