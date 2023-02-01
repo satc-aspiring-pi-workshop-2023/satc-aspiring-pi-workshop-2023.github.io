@@ -17,7 +17,7 @@ If invited to the workshop, you will also be asked to prepare a 2-3 page executi
 
 **Please Note**: Submissions and executive summaries will not be made public, even in the case of accepted participants. These materials are asked by the organizers solely for the purpose of making invitation decisions and to enhance the workshop experience. Decisions will be made subject to availability of space. Though applicants of all levels of experience are encouraged to apply, should the number of received applications exceed the number of available spaces, priority will be given to junior (or soon-to-be junior) faculty members first and those who have not previously received SaTC funding.
 
-**If selected, participation in this workshop will be fully funded, including travel, meals, and other accommodations**.
+**If selected, there is significant support for reimbursing costs associated with participating in this workshop, including travel, meals, and other accommodations**.
 
 <div class="reg-link">
 <a href="">

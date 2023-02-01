@@ -79,7 +79,7 @@ For travel and hotel, arrangements, please refer to [travel details page](/trave
 ## Travel & Accommodations 
 The workshop will take place entirely at George Washington University’s School of Engineering located at 800 22nd St. NW, Washington, DC 20052. 
 
-Support for costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space will be provided for all participants. More information on hotel accommodations will be provided in the coming weeks. 
+There is significant support available to cover the costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space to encourage participation. More information on hotel accommodations will be provided in the coming weeks. 
 
 
 ## Contact Us
