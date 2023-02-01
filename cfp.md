@@ -21,6 +21,6 @@ If invited to the workshop, you will also be asked to prepare a 2-3 page executi
 
 <div class="reg-link">
 <a href="">
-<button>Apply Now</button>
+<button>Applications Open Soon</button>
 </a>
 </div>

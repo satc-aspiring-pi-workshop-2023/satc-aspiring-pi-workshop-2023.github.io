@@ -29,7 +29,7 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 
 <div class="reg-link">
 <a href="">
-<button>Apply Now</button>
+<button>Applications Open Soon</button>
 </a>
 </div>
 
