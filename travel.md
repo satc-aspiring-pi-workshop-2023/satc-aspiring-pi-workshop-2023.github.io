@@ -6,7 +6,7 @@ title: Travel
 
 ## Travel Arrangements
 As a major travel hub, there are a variety of ways to travel to D.C., including: 
-### By Air: 
+#### By Air: 
 * Ronald Reagan Airport (DCA) 
 * Dulles International Airport (IAD) 
 * Baltimore/Washington International Airport (BWI) 
@@ -22,8 +22,8 @@ All participants in the workshop will have the option to arrange their own trave
 
 ## Hotel Arrangements
 
-
 We will post details on hotel accommodations soon.
+
 
 ## Booking and Reimbursement Support
 
