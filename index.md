@@ -25,7 +25,7 @@ The purpose of this workshop is to provide individuals who have never received a
   * …and more! 
 
 
-See the [Call For Participants](/cfp) for more details on participation. Importantly, if you are selected to participate **all travel expenses to Washington, DC and GW will be fully covered**.
+See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate most (if not all) **travel expenses to Washington, DC and GW will be reimbursed.**
 
 <div class="reg-link">
 <a href="">
