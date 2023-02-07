@@ -73,7 +73,7 @@ All events will take place at the George Washington University (GW) in Science a
 
 When you arrive at SEH, head down the stairs/elevator one level to B1. We will be in SEH B1220, B1270 and the "Green Wall" space. (See [Lehman Auditorium](https://seascf.seas.gwu.edu/lehman-auditorium) for more details).
 
-For travel and hotel, arrangements, please refer to [travel details page](/travel) and reach out to XXXXX for both booking and reimbursment.
+For travel and hotel, arrangements, please refer to [travel details page](/travel) and reach out to [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu) for both booking and reimbursement questions.
 
 
 ## Travel & Accommodations 
