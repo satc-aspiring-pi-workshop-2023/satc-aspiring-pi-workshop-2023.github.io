@@ -13,9 +13,9 @@ title: SaTC Aspiring PI Workshop 2023
 
 ## About
 
-The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (May 4-5)** designed for researchers interested in participating in NSF’s Secure and Trustworthy Cyberspace (SaTC) program. Participation in the workshop is open to those with research interests in security, privacy, etc. and trustworthy computing who are not currently funded by SaTC or any of its predecessor organizations (e.g. Trustworthy Computing and/or Cyber Trust). 
+The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (May 4-5, 2023)** designed for researchers interested in participating in NSF’s Secure and Trustworthy Cyberspace (SaTC) program. Participation in the workshop is open to those with research interests in all sub-fields of security, privacy, and trustworthy computing have never been funded by SaTC or any of its predecessor programs (Trustworthy Computing and/or Cyber Trust). 
 
-The purpose of this workshop is to provide individuals who have never received a SaTC grant with insider tips and tools for navigating NSF’s proposal review process, thereby increasing both the quality of proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with industry mentors in addition to several panels and workshops covering topics such as: 
+The purpose of this workshop is to provide individuals who have never received a SaTC award with  tips and tools for navigating the NSF’s proposal review process, with a focus on SaTC's goals, thereby increasing both the quality of their proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with industry mentors in addition to attend panels and sessions covering topics such as: 
   * Crafting a Research Proposal Narrative
   * Research Project Development
   * Presentation Strategies
