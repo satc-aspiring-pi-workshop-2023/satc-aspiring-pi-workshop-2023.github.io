@@ -5,7 +5,7 @@ icon: /imgs/gw_monogram_wht_rev.png
 #  name: 
 #  email: aaviv@gwu.ed
 description: > # this means to ignore newlines until "show_excerpts:"
-  The 2023 NSF SaTC Aspriing PI Workshop is designed to bring together researchers who aspiring to submit funded Secure and Trustworthy Cyberspace (SaTC) proposals to the NSF. The two day event, organized by GW and NYU, will provide aspiring PIs an opportunity to workshop their grant writing skills with mentorship from current PIs and NSF program officers. 
+  The 2023 NSF SaTC Aspiring PI Workshop is designed to bring together researchers who aspiring to submit funded Secure and Trustworthy Cyberspace (SaTC) proposals to the NSF. The two day event, organized by GW and NYU, will provide aspiring PIs an opportunity to workshop their grant writing skills with mentorship from current PIs and NSF program officers. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 future: true

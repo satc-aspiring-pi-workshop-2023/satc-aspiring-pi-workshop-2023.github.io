@@ -81,6 +81,9 @@ The workshop will take place entirely at George Washington University’s School
 
 There is significant support available to cover the costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space to encourage participation. More information on hotel accommodations will be provided in the coming weeks. 
 
+## NSF Policy on Harassment and Hate
+
+The National Science Foundation (NSF) will not tolerate sexual harassment, harassment based on ethnicity, race, gender, or disability, other forms of harassment, or sexual assault, within the agency, at awardee organizations, field sites or anywhere science or education is conducted. As a NSF sponsored workshop, we will uphold these values. To find out more about the NSF policies and procedures, please visit their [website](https://www.nsf.gov/od/oecr/harassment.jsp#:~:text=OECR%20Staff-,Stop%20Harassment,science%20or%20education%20is%20conducted). 
 
 ## Contact Us
 
