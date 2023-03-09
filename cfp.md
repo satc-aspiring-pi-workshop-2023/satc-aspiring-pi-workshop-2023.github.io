@@ -20,7 +20,5 @@ If invited to the workshop, you will also be asked to prepare a 2-3 page executi
 **If selected, there is significant support for reimbursing costs associated with participating in this workshop, including travel, meals, and other accommodations**.
 
 <div class="reg-link">
-<a href="https://seasgwu.qualtrics.com/jfe/form/SV_cTsSnV9EQWGRqFE">
-<button>Apply Now</button>
-</a>
+<button>Application Closed</button>
 </div>

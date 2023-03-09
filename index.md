@@ -28,9 +28,7 @@ The purpose of this workshop is to provide individuals who have never received a
 See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate most (if not all) **travel expenses to Washington, DC and GW will be reimbursed.**
 
 <div class="reg-link">
-<a href="https://seasgwu.qualtrics.com/jfe/form/SV_cTsSnV9EQWGRqFE">
-<button>Apply Now</button>
-</a>
+<button>Application Closed</button>
 </div>
 
 
