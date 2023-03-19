@@ -14,7 +14,7 @@ Participants are expected to submit a **Executive Summary** of a project proposa
 
 Your ES should:
 
-1. Have a title meeting the [SaTC](https://beta.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc) title standers (e.g., "SaTC: CORE: Small" or "SaTC: EDU: ");
+1. Have a title meeting the [SaTC](https://beta.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc) title standers (e.g., "SaTC: CORE: Small:..." or "SaTC: EDU:...");
 
 2. Include a section entitled "Intelectual Merit" where you discuss the intelectual merit of the research;
 
