@@ -58,6 +58,7 @@ header_pages:
   - cfp.md
   - travel.md
   - schedule.md
+  - part.md
   
 # Build settings
 theme: minima
