@@ -3,7 +3,7 @@ layout: default
 title: Participation
 ---
 
-# Participation
+# Participation Expectations for Aspiring PIs
 
 The goal of this workshop is to provide guidance and feedback for aspiring PIs seeking NSF SaTC funding. To meet these goals, we ask that participants in the workshop engage in a proposal feedback activity that will include both producing a short-form, executive summary of a proposal, and also provide feedback to others executive summaries of the proposals, as part of a mock panel process.
 
