@@ -36,7 +36,7 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 ## Tentative Program Schedule
 
 
-|         | Thursday, May 4                                                                                |
+|         | Thursday, May 4                                                                             |
 |---------|---------------------------------------------------------------------------------------------|
 | 8:00am  | Arrival & Registration                                                                      |
 | 9:15am  | Opening Remarks by NSF PMs and Organizers                                                   |
@@ -48,19 +48,22 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 | 3:00pm  | Coffee Break                                                                                |
 | 3:30pm  | Panel 2 (Topic: Panel Review Process)                                                       |
 | 5:00pm  | Closing Remarks                                                                             |
-| 7:00pm  | Dinner on your own                                                                          |
-| 10:00pm | Project summaries due                                                                       |
+| 6:30pm  | Buffet Dinner and Networking                                                                |
+| 8:30pm  | Adjourn                                                                                     |
 
 
 
-|         | Friday, May 5                                           |
-|---------|---------------------------------------------------------|
-| 8:30am  | Arrival                                                 |
-| 9:00am  | Opening Remarks                                         |
-| 9:30am  | Break into panels and Distribution of Project Summaries |
-| 10:00am | Coffee Break (Reviews completed and due)                |
-| 10:30am | Mock NSF Panel (NSF PM preside)                         |
-| 12:00pm | Closing Remarks and Box Lunch                           |
+
+
+|         | Friday, May 5                            |
+|---------|------------------------------------------|
+| 8:30am  | Arrival                                  |
+| 9:00am  | Opening Remarks                          |
+| 9:30am  | Mock Panels 1                            |
+| 10:00am | Coffee Break (Reviews completed and due) |
+| 10:30am | Mock Panels 2                            |
+| 12:00pm | Closing                                  |
+| 12:30pm | Box Lunches to-go                         |
 
 
   
