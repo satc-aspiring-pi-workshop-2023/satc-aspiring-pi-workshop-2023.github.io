@@ -36,34 +36,34 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 ## Tentative Program Schedule
 
 
-|         | Thursday, May 4                                                                             |
-|---------|---------------------------------------------------------------------------------------------|
-| 8:00am  | Arrival & Registration                                                                      |
-| 9:15am  | Opening Remarks by NSF PMs and Organizers                                                   |
-| 9:30am  | Introductions of Participants and Ice breakers                                              |
-| 10:00am | Coffee Break                                                                                |
-| 10:30am | Panel 1 (Topic: Research Project Development)                                               |
-| 12:00pm | (Working Lunch w/NSF and Mentor one-on-one meetings)                                        |
-| 1:30pm  | Activity 1 (independent work on updating your project summary based on one-on-one meetings) |
-| 3:00pm  | Coffee Break                                                                                |
-| 3:30pm  | Panel 2 (Topic: Panel Review Process)                                                       |
-| 5:00pm  | Closing Remarks                                                                             |
-| 6:30pm  | Buffet Dinner and Networking                                                                |
-| 8:30pm  | Adjourn                                                                                     |
+|         | Thursday, May 4                                      |
+|---------|------------------------------------------------------|
+| 8:30am  | Arrival/Registration/Breakfast                               |
+| 9:00am  | Opening Remarks by NSF PMs and Organizers            |
+| 9:15am  | Introductions of Participants and Ice breakers       |
+| 10:15am | Coffee Break                                         |
+| 10:45am | Panel 1 (Topic: Research Project Development)        |
+| 12:15pm | (Working Lunch w/NSF and Mentor one-on-one meetings) |
+| 2:15pm  | Panel 2 (Topic: Panel Review Process)                |
+| 3:45pm  | Coffee Break                                         |
+| 4:15pm  | BOF Sessions                                         |
+| 6:00pm  | Closing Remarks                                      |
+| 6:30pm  | Buffet Dinner and Networking                         |
+| 8:30pm  | Adjourn                                              |
 
 
 
 
 
-|         | Friday, May 5                            |
-|---------|------------------------------------------|
-| 8:30am  | Arrival                                  |
-| 9:00am  | Opening Remarks                          |
-| 9:30am  | Mock Panels 1                            |
-| 10:00am | Coffee Break (Reviews completed and due) |
-| 10:30am | Mock Panels 2                            |
-| 12:00pm | Closing                                  |
-| 12:30pm | Box Lunches to-go                         |
+|         | Friday, May 5                   |
+|---------|---------------------------------|
+| 8:00am  | Arrival/Breakfast               |
+| 8:30am  | Opening Remarks                 |
+| 9:00am  | Mock Panels 1                   |
+| 10:30am | Coffee Break                    |
+| 11:00am | Mock Panels 2                   |
+| 12:30pm | Final Remarks/Box Lunches to-go |
+
 
 
   
