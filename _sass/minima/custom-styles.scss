@@ -50,9 +50,12 @@ a {
   }
 }
 
-// .site-nav {
-//     position: absolute;
-// }
+  @media screen and (max-width: $on-medium) {
+    .site-nav {
+	margin-left: 80%
+    }
+
+  }
 
 .site-header {
     background-color: $gw_blue_primary;
