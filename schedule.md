@@ -37,7 +37,7 @@ title: Schedule
     * Gudiance on the review process
 	
   * 9:00 : Panel Session 1
-    * Penals will meet to discuss all asigned proposals
+    * Panals will meet to discuss all asigned proposals
 	
   * 10:30 : Break
   * 11:00 : Panel session 2
