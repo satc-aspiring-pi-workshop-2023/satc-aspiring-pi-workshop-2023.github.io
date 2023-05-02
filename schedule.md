@@ -21,7 +21,7 @@ title: Schedule
     * Serge Egelman, Siddharth Garg, Michelle Mazurek, and Peter Peterson will share insights from their proposal writing and development process, including stories of successes and failures. Rachel Greenstadt will moderate.
 
   * 12:15 : Lunch and One-on-one meetings
-    * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang
+    * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
 	* Community Mentors: Adam Aviv, Rachel Greenstadt, Serge Egelman, Arkady Yerukhimovich, Michelle MAzurek, Peter Peterson, Ramesh Karri, and Sidharth Garg
 	
   * 2:15 : Panel 2: Panel Review Process
@@ -44,14 +44,14 @@ title: Schedule
   * 9:00 : Mock Panel Session 1
     * Panals will meet to discuss all asigned proposals
 	* Panel Moderators will include:
-      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang
+      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
       * Community Mentors: Adam Aviv, Rachel Greenstadt, Serge Egelman, Arkady Yerukhimovich, Michelle MAzurek, Peter Peterson, Ramesh Karri, and Sidharth Garg
 
   * 10:30 : Break
   * 11:00 : Mocak Panel session 2
     * Panels will meet and write a recomendation for each propals
 	* Panel Moderators will include:
-      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang
+      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
       * Community Mentors: Adam Aviv, Rachel Greenstadt, Serge Egelman, Arkady Yerukhimovich, Michelle MAzurek, Peter Peterson, Ramesh Karri, and Sidharth Garg
 	
   * 12:30 : Box Lunches to-go
