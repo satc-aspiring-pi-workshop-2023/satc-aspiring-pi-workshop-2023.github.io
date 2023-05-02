@@ -86,8 +86,13 @@ Science and Engineering Hall (SEH) is just a two-minute walk from the metro stop
 
 ## Hotel Accommodations
 
-We will post details on hotel accommodations soon.
+Participants in the room block will be staying at the
 
+[ARC HOTEL D.C.](https://goo.gl/maps/EPHjBvvn92UdsjFg9?coh=178571&entry=tt) <br>
+824 New Hampshire Ave NW <br>
+Washington, D.C. 20037 <br>
+
+The hotel is a [short, 5-minute  walk to SEH](https://www.google.com/maps/dir/38.900129,-77.0499858/ARC+HOTEL+Washington+DC,+Georgetown,+824+New+Hampshire+Ave+NW,+Washington,+DC+20037/@38.9002026,-77.0524811,18z/am=t/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x89b7b7b24c0898f7:0xd87a073cba580f12!2m2!1d-77.0526547!2d38.9001994!3e2)
 
 ## Booking and Reimbursement Support
 

@@ -33,7 +33,9 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 
 
 
-## Tentative Program Schedule
+## Schedule in Brief
+
+See the [Full Schedule](schedule.html).
 
 
 |         | Thursday, May 4                                      |
@@ -76,6 +78,8 @@ When you arrive at SEH, head down the stairs/elevator one level to B1. We will b
 
 For travel and hotel, arrangements, please refer to [travel details page](/travel) and reach out to [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu) for both booking and reimbursement questions.
 
+
+**Please note that SEH is a tap-access only building with low security, but it is very active in-and-out. You shold be able to get in following someone else in. If you find yourself stuck outside, please email [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu) and someone will come let you in.**
 
 ## Travel & Accommodations 
 The workshop will take place entirely at George Washington University’s School of Engineering located at 800 22nd St. NW, Washington, DC 20052. 
