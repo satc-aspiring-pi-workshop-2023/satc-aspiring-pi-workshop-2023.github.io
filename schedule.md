@@ -11,7 +11,7 @@ title: Schedule
   * 8:30am : Arrival, Breakfast, and Registration
   
   * 9:00 : Opening remarks
-     * Adam Aviv and Rachel Greendstadt will welcome everyoen to the event
+     * Adam Aviv and Rachel Greendstadt will welcome everyone to the event
 	 
   * 9:15 : Introductions and Icebreakers
      * We will go around the room and do introductions, and break up into groups for a icebreaker activity
@@ -21,11 +21,11 @@ title: Schedule
     * Serge Egelman, Siddharth Garg, Michelle Mazurek, and Peter Peterson will share insights from their proposal writing and development process, including stories of successes and failures. Rachel Greenstadt will moderate.
 
   * 12:15 : Lunch and One-on-one meetings
-    * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
+    * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosley, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
 	* Community Mentors: Adam Aviv, Rachel Greenstadt, Serge Egelman, Arkady Yerukhimovich, Michelle MAzurek, Peter Peterson, Ramesh Karri, and Sidharth Garg
 	
   * 2:15 : Panel 2: Panel Review Process
-    * NSF Program Officers and Managers, Li Yang, Jeremy Epstein, Phillip Regalia, and Daniela Oliveira will share their insights about the panel reviewing process. Adam Aviv will moderate this panel.
+    * NSF Program Officers: Li Yang, Jeremy Epstein, Phillip Regalia, and Daniela Oliveira will share their insights about the panel reviewing process. Adam Aviv will moderate this panel.
   * 3:45 : Break
   * 4:15 : BOF sessions
     * Participants will submit topics they are interested in discussion, and we will break into smaller groups to address those topics with aspiring PIs and mentors
@@ -39,19 +39,19 @@ title: Schedule
 * Friday, May 5th
   * 8:00 : Breakfast
   * 8:30 : Opening Remarks
-    * Gudiance on the review process
+    * Guidance on the review process
 	
   * 9:00 : Mock Panel Session 1
-    * Panals will meet to discuss all asigned proposals
+    * Panels will meet to discuss all aligned proposals
 	* Panel Moderators will include:
-      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
+      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosley, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
       * Community Mentors: Adam Aviv, Rachel Greenstadt, Serge Egelman, Arkady Yerukhimovich, Michelle MAzurek, Peter Peterson, Ramesh Karri, and Sidharth Garg
 
   * 10:30 : Break
-  * 11:00 : Mocak Panel session 2
-    * Panels will meet and write a recomendation for each propals
+  * 11:00 : Mock Panel session 2
+    * Panels will meet and write a recommendation for each proposals
 	* Panel Moderators will include:
-      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosely, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
+      * NSF Mentors: Jeremy Epstein, Li Yang, Phillip Regalia, Daniela Oliveira, Anna Squicciarini, Dan Cosley, James Joshi, Chungsheng Xin, Cliff Wang, James Joshi
       * Community Mentors: Adam Aviv, Rachel Greenstadt, Serge Egelman, Arkady Yerukhimovich, Michelle MAzurek, Peter Peterson, Ramesh Karri, and Sidharth Garg
 	
   * 12:30 : Box Lunches to-go
