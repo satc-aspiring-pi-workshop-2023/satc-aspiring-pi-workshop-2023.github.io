@@ -16,9 +16,10 @@ title: Schedule
   * 9:45 : Introductions and Icebreakers
      * We will go around the room and do introductions, and break up into groups for a icebreaker activity
 	 
-  * 10:15 : Coffee break
+  * 10:45 : Coffee break
 
-  * 10:45 : Panel 1: Research Project Development
+
+  * 11:00 : Panel 1: Research Project Development
     * Serge Egelman, Siddharth Garg, Michelle Mazurek, and Peter Peterson will share insights from their proposal writing and development process, including stories of successes and failures. Rachel Greenstadt will moderate.
 
   * 12:15 : Lunch and One-on-one meetings
