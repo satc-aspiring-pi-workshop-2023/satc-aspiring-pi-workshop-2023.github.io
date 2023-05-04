@@ -41,8 +41,8 @@ See the [Full Schedule](schedule.html).
 |         | Thursday, May 4                                      |
 |---------|------------------------------------------------------|
 | 8:30am  | Arrival/Registration/Breakfast                               |
-| 9:00am  | Opening Remarks by NSF PMs and Organizers            |
-| 9:15am  | Introductions of Participants and Ice breakers       |
+| 9:45am  | Opening Remarks by NSF PMs and Organizers            |
+| 10:15am  | Introductions of Participants and Ice breakers       |
 | 10:15am | Coffee Break                                         |
 | 10:45am | Panel 1 (Topic: Research Project Development)        |
 | 12:15pm | (Working Lunch w/NSF and Mentor one-on-one meetings) |

@@ -10,13 +10,14 @@ title: Schedule
 * Thursday, May 4th
   * 8:30am : Arrival, Breakfast, and Registration
   
-  * 9:00 : Opening remarks
+  * 9:30 : Opening remarks
      * Adam Aviv and Rachel Greendstadt will welcome everyone to the event
 	 
-  * 9:15 : Introductions and Icebreakers
+  * 9:45 : Introductions and Icebreakers
      * We will go around the room and do introductions, and break up into groups for a icebreaker activity
 	 
   * 10:15 : Coffee break
+
   * 10:45 : Panel 1: Research Project Development
     * Serge Egelman, Siddharth Garg, Michelle Mazurek, and Peter Peterson will share insights from their proposal writing and development process, including stories of successes and failures. Rachel Greenstadt will moderate.
 
